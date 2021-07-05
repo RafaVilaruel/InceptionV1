@@ -1,0 +1,18 @@
+Vagas Júnior
+
+PHP:10
+
+ANGULAR:6
+
+NODEJS:10
+
+Frontend? 7
+
+MOBILE:
+
+C#:6
+
+.NET:16
+
+Java:9
+
